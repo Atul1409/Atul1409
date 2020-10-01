@@ -6,6 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on REACT JS
 - 🌱 I’m currently learning MERN 
-      
+![Github stats](https://github-readme-stats.vercel.app/api?username=Atul1409)
     MY PORTFOLIO 
 -https://atul1409.github.io/Portfolio/
