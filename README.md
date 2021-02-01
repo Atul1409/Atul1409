@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN 
 
     MY PORTFOLIO 
--https://atul1409.github.io/Portfolio/
+-https://atul-personal-portfolio.netlify.app/
