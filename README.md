@@ -12,8 +12,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on REACT JS
-- 🌱 I’m currently learning MERN 
+- 🔭 I’m currently working on my Discord Bot
+- 🌱 I’m currently learning  Typescript
 
     MY PORTFOLIO 
 -https://atul-personal-portfolio.netlify.app/
